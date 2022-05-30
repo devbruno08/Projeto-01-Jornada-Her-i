@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "c",
+  "version": "1.0.0",
+  "main": "Projeto_01.js",
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
